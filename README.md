@@ -1,6 +1,24 @@
-<h1 align="center">Hi 👋, I'm Kokila</h1>
+![Profile Views](https://komarev.com/ghpvc/?username=kokilasanjeewa)
+ <h1 align="center">Hi 👋, I'm Kokila</h1>
 <h3 align="center">A passionate frontend developer and backend developer from Sri Lanka</h3>
+# Hello!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
+<br/>
+We are currently learning, developing, and implementing Microservice Architecture with Docker - We love exploring and learning new technology stacks.
+<br/>
+<br/>
+<p align="center">
+<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+ </p>
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***We Are ....***
+Welcome to My GitHub profile! I'm passionate ERP Developers <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka, specializing in .NET with Angular MicroService development. 
+
+- 💻 Currently, we are working on an ERP project, utilizing our expertise in C#, Angular, and .NET to develop robust web applications.
+- ✍️ we also enjoy sharing our knowledge through technical blogs, where we write about our experiences, tutorials, and best practices.
+- ⚡ In our free time, we love exploring the latest tech articles and staying updated with emerging technologies and best practices.
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokilasanjeewa&label=Profile%20views&color=0e75b6&style=flat" alt="kokilasanjeewa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kokilasanjeewa" alt="kokilasanjeewa" /></a> </p>
